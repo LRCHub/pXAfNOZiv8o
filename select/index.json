@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Yang Terdalam",
+  "base_artist": "Peterpan",
+  "createdAt": "2026-02-28T19:31:13.057906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "peterpan",
+      "has_synced": true,
+      "path": "select/01_Yang_Terdalam_peterpan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Peterpan",
+      "has_synced": true,
+      "path": "select/02_Yang_Terdalam_Peterpan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Yeni Inka",
+      "has_synced": false,
+      "path": "select/03_Yang_Terdalam_Yeni_Inka.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yeni Inka - NOAH - Yang Terdalam (Official Music Video ANEKA SAFARI)",
+      "artist": "Yeni Inka",
+      "has_synced": false,
+      "path": "select/04_Yeni_Inka_-_NOAH_-_Yang_Terdalam_(Official_Music_Video_ANEKA_SAFARI)_Yeni_Inka.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Noah",
+      "has_synced": true,
+      "path": "select/05_Yang_Terdalam_Noah.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dari Hati Yang Terdalam",
+      "artist": "Gigi",
+      "has_synced": true,
+      "path": "select/06_Dari_Hati_Yang_Terdalam_Gigi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Mitty Zasia",
+      "has_synced": true,
+      "path": "select/07_Yang_Terdalam_Mitty_Zasia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Noah",
+      "has_synced": true,
+      "path": "select/08_Yang_Terdalam_Noah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Felix Irwan",
+      "has_synced": true,
+      "path": "select/09_Yang_Terdalam_Felix_Irwan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Peterpan",
+      "has_synced": true,
+      "path": "select/10_Yang_Terdalam_Peterpan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Peterpan",
+      "has_synced": true,
+      "path": "select/11_Yang_Terdalam_Peterpan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dari Hati Yang Terdalam (Album Version)",
+      "artist": "GiGi",
+      "has_synced": true,
+      "path": "select/12_Dari_Hati_Yang_Terdalam_(Album_Version)_GiGi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Sasa Tasia",
+      "has_synced": true,
+      "path": "select/13_Yang_Terdalam_Sasa_Tasia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Tami Aulia",
+      "has_synced": true,
+      "path": "select/14_Yang_Terdalam_Tami_Aulia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Sanca Records",
+      "has_synced": true,
+      "path": "select/15_Yang_Terdalam_Sanca_Records.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Yang Terdalam",
+      "artist": "Peterpan",
+      "has_synced": true,
+      "path": "select/16_Yang_Terdalam_Peterpan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yang Terdalam",
+      "artist": "Peterpan",
+      "has_synced": false,
+      "path": "select/pl_01_Yang_Terdalam_Peterpan.txt"
+    }
+  ]
+}
